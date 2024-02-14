@@ -1,0 +1,8 @@
+{
+  "products": {
+    "1": { "name": "Microwave" },
+    "2": { "name": "Phone" },
+    "3": { "name": "Car Tire" },
+    "4": { "name": "Table" }
+  }
+}

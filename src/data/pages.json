@@ -1,0 +1,7 @@
+{
+  "pages": {
+    "home": [{ "id": "text", "text": "This is the home page" }],
+    "about": [{ "id": "text", "text": "This is the about page" }],
+    "products": [{ "id": "product" }]
+  }
+}
